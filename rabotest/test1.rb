@@ -1,3 +1,4 @@
+4条的ガウス
 count = 1
 sum = 0
 while count <= 64
