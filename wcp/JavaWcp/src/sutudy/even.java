@@ -1,5 +1,6 @@
 package sutudy;
 
+//1から10の偶数表示
 public class even {
 	public static void main(String[] args) {
 		for (int number = 1; number <= 10; number++) {
@@ -7,7 +8,5 @@ public class even {
 				System.out.println(number);
 			}
 		}
-		
 	}
-
 }
