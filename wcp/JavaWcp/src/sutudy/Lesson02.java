@@ -16,6 +16,7 @@ public class Lesson02 {
 			}
 		//偶数カウント
 		System.out.println(count);
+		//偶数の和
 		System.out.println(sum);
 	}
 }
