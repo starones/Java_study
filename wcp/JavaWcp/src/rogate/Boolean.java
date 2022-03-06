@@ -1,5 +1,6 @@
 package rogate;
 
+//------boolean型--------
 public class Boolean {
 	public static void main(String[] args) {
 		System.out.println(true);
@@ -11,5 +12,4 @@ public class Boolean {
 		System.out.println(bool);
 		
 	}
-
 }
