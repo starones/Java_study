@@ -10,5 +10,4 @@ public class Method02 {
 	public static void printDate(String name) {
 		System.out.println(name);
 	}
-
 }
