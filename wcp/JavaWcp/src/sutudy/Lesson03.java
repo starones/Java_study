@@ -6,11 +6,11 @@ public class Lesson03 {
 
 	    // nnumberの表示
 	    for (int i = 1; i < number.length; i++) {
-	    	if (i >=11 && !(i % 2 == 0)) {
+	    	if (i >= 11 && !(i % 2 == 0)) {
 
 	    		System.out.print(",");
 	    	}
-	    	if (i < 11 && i % 2 == 0) {
+	    	if (i <= 11 && i % 2 == 0) {
 
 	    		System.out.print(",");
 	    	}
