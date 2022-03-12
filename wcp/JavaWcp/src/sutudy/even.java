@@ -10,7 +10,7 @@ public class even {
 			}
 		}
 
-		//--------wile文（奇数表示）--------
+		//--------while文（奇数表示）--------
 		int num = 0;
 		while (num < 10) {
 			num++;
