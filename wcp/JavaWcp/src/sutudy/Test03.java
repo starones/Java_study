@@ -2,13 +2,11 @@ package sutudy;
 
 public class Test03 {
 	public static void main(String[] args) {
-		for(int num = 1; num <= 10; num++) {
-			System.out.print(num);
-			if(num <= 10) {
+		for(int i = 1; i <= 10; i++) {
+			System.out.print(i);
+			if (i < 10) {
 				System.out.print(",");
 			}
 		}
-
 	}
-
 }
