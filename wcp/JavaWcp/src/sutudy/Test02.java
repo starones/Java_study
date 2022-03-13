@@ -11,7 +11,7 @@ public class Test02 {
 				num02 += x;
 			}
 		}
-		System.out.println(num01);
-		System.out.println(num02);
+		System.out.println("偶数の数は" + num01);
+		System.out.println("偶数の合計は" + num02);
 		}
 }
