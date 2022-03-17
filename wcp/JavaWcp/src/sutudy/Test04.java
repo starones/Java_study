@@ -9,11 +9,14 @@ public class Test04 {
 			num[i] = x;
 			x = x + 5;
 			System.out.print(num[i]);
+			if(i <= 10 && num[i] % 2 == 0) {
+				System.out.print(",");
+			}
+
+			if(i > 10 && num[i] % 2 != 0) {
+				System.out.print(",");
+			}
 		}
-
-
-
 		}
-
 	}
 
